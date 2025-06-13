@@ -1,9 +1,17 @@
 # Onix
 
-Onix is an ethical AI data marketplace that enables individuals to monetize their digital footprints while providing enterprises with high-quality, ethically sourced data. 
-Onix ensures transparent, fair, and privacy-preserving data transactions by leveraging blockchain-based consent mechanisms and a proof-of-work-driven tokenomics model.
+Onix is a personal intelligence platform.
 
-Focusing on real-time, compliant, high-value AI training data, Onix bridges the gap between data contributors and enterprises, creating a scalable ecosystem where ownership, compensation, and AI innovation align. 
-Our initial focus on wellness data sets the foundation for expansion into broader AI-driven industries, including healthcare, finance, and retail.
+We’re building a trust-first, agentic system that helps individuals understand and evolve their digital selves.
 
-Backed by partnerships with leading AI research institutions and industry leaders, Onix redefines how data is valued, accessed, and utilized in the AI economy.
+Our approach combines sovereign data, modular AI personas, and insight-driven experiences—designed for privacy, adaptability, and long-term user alignment.
+
+## Mission
+
+Empower individuals to reflect, reason, and act through AI that works on their behalf, grounded in their context, controlled by their consent.
+
+## Vision
+
+Onix becomes the AI-native OS for human agency.
+
+A decentralized, privacy-preserving platform where users compose their digital legions—collaborative agents that unlock personal insight, collective wisdom, and meaningful action.
